@@ -1,3 +1,6 @@
+--Using Joins, CTE's, Temp Tables, Windows functions, Aggregate functions, converting data types, creating views. 
+
+
 --From Covid deaths
 Select *
 From PortfolioProject..['Covid Deaths$']
